@@ -1,40 +1,28 @@
-# Olá! Sou Julio Cesar Filho,
-Acadêmico de Engenharia de Software no IFAM, com foco em Inteligência Artificial e aplicações práticas de Machine Learning.
+## Hi there 👋
 
-# Tenho experiência com:
+I'm Julio Cesar Filho, an AI and Software Engineering student from Brazil focused on building intelligent systems and innovative software solutions.
 
-✅ Aprendizado supervisionado e não supervisionado
+💻 I work mainly with **Python, Machine Learning, Deep Learning and Generative AI**, building systems that integrate AI models with real-world applications.  
+🎓 Currently studying **Software Engineering at the Federal Institute of Amazonas (IFAM)** and participating in research and innovation projects involving artificial intelligence and emerging technologies.  
 
-✅ Redes neurais e LLMs
+### 🛠 Tech & Interests
+- Python, Machine Learning, Deep Learning  
+- Generative AI & LLMs  
+- Data Science, NLP & Computer Vision  
+- Intelligent Agents & AI Systems  
+- APIs, Cloud and AI deployment  
+- Research and educational AI applications  
 
-✅ Visão computacional e IA generativa
+### 🌎 Beyond code
+When I'm not coding or studying AI, you'll probably find me doing one of these:
 
-✅ Criação de agentes inteligentes com Crew AI
+🥊 Training **Muay Thai** — I love combat sports and the discipline they bring.  
+🎤 Taking **singing lessons** (i really need to 😧) 
+📺 Watching my favorite animated universes — I'm **completely obsessed with *Avatar: The Last Airbender* (im not a korra hater tho) and *Adventure Time***. I genuinely love diving deep into the lore, characters and worldbuilding of both universes.
 
-# Minhas principais ferramentas:
+I'm passionate about **technology, learning new things and building solutions that can have real impact**.
 
-💻 Linguagens: Python (principal), R, JavaScript
-
-🛠️ Ferramentas: Google Colab, Hugging Face, VS Code, GitHub, Orange, Google AI Studio
-
-📊 Bibliotecas: Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, TensorFlow, Keras, OpenCV
-
-🧪 Metodologias: Kanban, Scrum
-
-🌐 Outros: Figma, LaTeX
-
-# 🚀 Projetos em destaque
-• Previsão de recorrência de câncer de mama com ML
-
-• Agente instrutor com Crew AI
-
-• Classificação de dígitos manuscritos (KNN, Random Forest)
-
-• Modelos preditivos para flores, jogos e preferências animais
-
-🚀 Em busca de oportunidades para aplicar e expandir meus conhecimentos. 
-
-📫 Vamos conversar? jcrpfilho2020@gmail.com
+📫 Always open to collaborations, research and interesting projects.
 
 
 <div align="center">
