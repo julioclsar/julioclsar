@@ -15,10 +15,9 @@ an AI and Software Engineering student from Brazil focused on building intellige
 ### 🌎 Beyond code
 When I'm not coding or studying AI, you'll probably find me doing one of these:
 
-🥊 Training **Muay Thai** — I love combat sports.
-🎤 Taking **singing lessons** (i really need to 😧).
-
-📺 Watching my favorite animated universes — I'm **completely obsessed with *Avatar: The Last Airbender* (im not a korra hater tho) and *Adventure Time***. I genuinely love diving deep into the lore, characters and worldbuilding of both universes.
+🥊 Training **Muay Thai** — I love combat sports.  
+🎤 Taking **singing lessons** (i really need to 😧).  
+📺 Watching my favorite animated universes — I'm **completely obsessed with *Avatar: The Last Airbender* and *Adventure Time***. I genuinely love diving deep into the lore, characters and worldbuilding of both universes.
 
 I'm passionate about **technology, learning new things and building solutions that can have real impact**.
 
