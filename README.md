@@ -1,6 +1,5 @@
-## Hi there 👋
-
-I'm Julio Cesar Filho, an AI and Software Engineering student from Brazil focused on building intelligent systems and innovative software solutions.
+## Hi there!! I'm Julio Cesar Filho 👋
+an AI and Software Engineering student from Brazil focused on building intelligent systems and innovative software solutions.
 
 💻 I work mainly with **Python, Machine Learning, Deep Learning and Generative AI**, building systems that integrate AI models with real-world applications.  
 🎓 Currently studying **Software Engineering at the Federal Institute of Amazonas (IFAM)** and participating in research and innovation projects involving artificial intelligence and emerging technologies.  
